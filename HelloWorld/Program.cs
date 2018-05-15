@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World");
             Console.WriteLine("是这样吗？");
             Console.WriteLine("就是这样！");
+            Console.WriteLine("还是不太明白！");
         }
     }
 }
